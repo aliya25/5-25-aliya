@@ -1,22 +1,21 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-danger">
-    <a class="navbar-brand" href="#">Aliya</a>
+    <a class="navbar-brand" href="#">REEJNS ACADEMY</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link {{ ( $title === 'Home') ? 'active' : ' '}}" aria-current="page" href="/">Home</a>
+          <a class="nav-link {{ ( $title === 'Home') ? 'active' : ' '}}" aria-current="page" href="/">Beranda</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ ( $title === 'About') ? 'active' : ' '}}" href="/about">About</a>
+          <a class="nav-link {{ ( $title === 'About') ? 'active' : ' '}}" href="/about">Profil</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ ( $title === 'Gallery') ? 'active' : ' '}}" href="/gallery">Gallery</a>
+          <a class="nav-link {{ ( $title === 'Gallery') ? 'active' : ' '}}" href="/gallery">Kalender</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ ( $title === 'Conntacts') ? 'active' : ''}}" href="{{ route('contacts.create')}}">Contact Us</a>
-        </li>
+          <a class="nav-link {{ ( $title === 'Conntacts') ? 'active' : ''}}" href="{{ route('contacts.create')}}">Kritik dan saran</a>
       </ul>
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">

@@ -10,7 +10,7 @@
     <meta name="keywords" content="au theme template">
 
     <!-- Title Page-->
-    <title>Register</title>
+    <title>Registrasi</title>
 
     @include('patrials/css')
 
@@ -24,7 +24,7 @@
                     <div class="login-content">
                         <div class="login-logo">
                             <a href="#">
-                                <img src="{{ asset('admin/images/icon/logo.png')}}" alt="CoolAdmin">
+                                <img src="{{ asset('public/image/logo.png')}}" alt="CoolAdmin">
                             </a>
                         </div>
                         <div class="login-form">

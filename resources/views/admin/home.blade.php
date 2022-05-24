@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="overview-wrap">
-                            <h2 class="title-1">overview</h2>
+                            <h2 class="title-1">Ekstrakulikuler</h2>
                         </div>
                     </div>
                 </div>
@@ -15,7 +15,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="copyright">
-                            <p>Copyright © 2018 Colorlib. All rights reserved. Template by <a href="https://colorlib.com">Colorlib</a>.</p>
+                            <p>Copyright © 2022 REEJNS ACADEMY. All rights reserved. Template by <a href="https://colorlib.com">Colorlib</a>.</p>
                         </div>
                     </div>
                 </div>
